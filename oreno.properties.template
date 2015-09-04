@@ -1,0 +1,7 @@
+executableName = oreno-kcl.rb
+streamName = $STREAM_NAME
+applicationName = $STREAM_NAME
+AWSCredentialsProvider = DefaultAWSCredentialsProviderChain
+processingLanguage = ruby
+initialPositionInStream = TRIM_HORIZON
+regionName = $REGION_NAME
